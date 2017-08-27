@@ -9,6 +9,8 @@ import {
   AppRegistry,
 } from 'react-native';
 
-import Application from './src/components/Application'
-
+import Application from './src/Application'
 AppRegistry.registerComponent('ReactMovies', () => Application);
+
+//import IndexApp from './src/'
+//AppRegistry.registerComponent('ReactMovies', () => IndexApp);
